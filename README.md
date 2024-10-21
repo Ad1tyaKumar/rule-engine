@@ -5,25 +5,23 @@ Hosted link: [ https://rule-engine-sandy.vercel.app/](https://rule-engine-sandy.
 
 This application is a rule engine that determines user eligibility based on attributes such as age, department, salary, and experience. It uses an Abstract Syntax Tree (AST) to represent and manage conditional rules, allowing for dynamic rule creation, combination, and evaluation.
 
-<img width="943" alt="image" src="https://github.com/user-attachments/assets/2eacbf89-2b4d-4ff8-9f0d-60c4292da0ac">
-
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/475ad933-e889-49e8-83de-cffddbe93b3b">
 
 ## Features
 
 - **Create Rules:** Define rules using a string format that gets converted into an AST.
 
 
-  <img width="377" alt="image" src="https://github.com/user-attachments/assets/5e1c7b5c-6b06-4666-a846-0666279af844">
+  <img width="377" alt="image" src="https://github.com/user-attachments/assets/c43c8035-1ffc-44db-bd08-bf318f855d1f">
 
 
 - **Combine Rules:** Combine multiple rules into a single AST for more complex evaluations.
   
-  <img width="376" alt="image" src="https://github.com/user-attachments/assets/30345dba-e5cc-4383-a1a6-a3214d0dbacb">
+  <img width="376" alt="image" src="https://github.com/user-attachments/assets/e442140c-50e6-441c-a83a-87e22a848cd2">
 
-  
 - **Evaluate Rules:** Check if the given data meets the criteria defined by the AST.
 
-  <img width="375" alt="image" src="https://github.com/user-attachments/assets/00ec7000-34da-4f21-8c61-d299ad6f432d">
+  <img width="375" alt="image" src="https://github.com/user-attachments/assets/75d39c14-683e-45b8-8efe-7694c83dfaff">
 
 
 - **Tree Visualization:** Define or Combine Rule would should show Tree Representation.
